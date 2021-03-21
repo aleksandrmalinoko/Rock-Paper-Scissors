@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # create the function
+    def create_full_name(name, last_name):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9575#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 21 Mar 2021 17:15:28 UTC
+record: -1
